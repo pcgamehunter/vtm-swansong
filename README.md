@@ -91,7 +91,7 @@
 | $\color{#96243c}{\textsf{Intimidation}}$   | 3            |
 | $\color{#96243c}{\textsf{Persuasion}}$     | 4            |
 | $\color{#96243c}{\textsf{Psychology}}$     | 3            |
-| $\color{#1f7c8e}{\textsf{Security}}$       | 6            |
+| $\color{#1f7c8e}{\textsf{Security}}$       | 6*           |
 | $\color{#1f7c8e}{\textsf{Technology}}$     | 4            |
 | $\color{#38773c}{\textsf{Deduction}}$      | 1            |
 | $\color{#38773c}{\textsf{Education}}$      | 2            |
@@ -100,3 +100,70 @@
 | $\color{Purple}\textsf{\textsf{Presence}}$ | 0*           |
 
 *`*This excludes the impossible ranks in the intro, before you access the skill tree`*
+
+**The mission reward is 75 Experience if all tasks were completed.** (Weirdly you will get the end screen only after Leysha's mission)
+
+### Scene 01 (Leysha)
+- $\color{Red}{\textsf{[Choice]}}$ Give-in to the premonition
+	- *Unlocks "**Introspective**" (-20XP cost Auspex)*
+- $\color{Red}{\textsf{[Choice]}}$ Focus on Emem and Journey
+	- Allows you to watch the scene from Leysha's perspective.
+- **Jara**'s room
+	- $\color{#d67c22}{\textsf{Jara Drory's Notebook}}$ can be found on the nightstand by the bed.
+	- $\color{#d67c22}{\textsf{File on the Unification Party Planning}}$ can be found on a shelf on the left side, the file is red.
+		- *This evidence clears Journey of suspicion, saving her life.*
+	- A picture in the living room has the computer passcode: 1841 
+	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ $\color{#2f5981}{\textsf{6◆}}$ Bypass the lock (pc) (code 1841)
+	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ An obfuscated box can be seen with Auspex on the bed, but cannot be opened.
+- **Dijan**'s room
+	- $\color{#1f7c8e}{\textsf{[Security 6]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+	- $\color{#38773c}{\textsf{[Education 1]}}$ Use your knowledge (newpaper, read first)
+	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Study animal (dead bird)
+	- $\color{#38773c}{\textsf{[Education 2]}}$ Analyze scene (dead bird)
+	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Pierce obfuscate - A secret letter can be seen in the cabinet.
+	- $\color{#38773c}{\textsf{[Education 1]}}$ Analyze blood (knife)
+	- $\color{#46b233}{\textsf{Polariod}}$ (+5 willpower) can be found behind the table with tarot cards.
+- Door to the top atrium
+	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+- Door to the Primogen rooms
+	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+- **Hilda**'s room
+	- A computer is in her room, but you cannot interact with it due to obfuscate.
+	- A drawer cannot be opened due to obfuscate.
+- **Underwood**'s room
+	- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ I'd better change the subject
+	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ A prince should be wary of everyone, shouldn't she?
+		- *Passing either of these, is required to be able to report to the prince about Underwood.*
+- **Dunham**'s room
+	- $\color{#38773c}{\textsf{[Education 1]}}$ Analyze system (pc)
+	- $\color{#d67c22}{\textsf{Dr. Dunham's Floppy Disk}}$ can be found in a bag on the couch, in the room with the tub.
+		- *Insert the floppy disk into the computer to gain info on Dr. Dunham.*
+- Talk to **Halsey** 
+	- Yes let's get out of here. (***NO RETURN***)
+- Talking with **Hazel**
+	- I spoke with Berel... (Reveal Berel is self-centered)
+	- Hilda was in her room... (Reveal she's focused on Emem)
+	- I went into Dajan's rooms (Reveal Dajan prefers the Salem Chantry)
+	- I had a premonition (If you choose to give-in)
+	- I saw Emem and Journey (If you focused on their conversation)
+	- I found this security file... (Clears Journey of suspicion)
+		- Unlocks "**Merciful**" (+10% to Rhetoric tie)
+	- Reporting on Berel, Hilda, Dunham and Siaka and giving her the file on Journey unlocks "**Bootlicker**" (-30xp cost Exploration)
+
+**The mission reward is 125 Experience if all tasks were completed.**
+
+| **SKILL**                                   | **MAX RANK** |
+| ------------------------------------------- | ------------ |
+| $\color{#96243c}{\textsf{Rhetoric}}$        | 4            |
+| $\color{#96243c}{\textsf{Intimidation}}$    | 0            |
+| $\color{#96243c}{\textsf{Persuasion}}$      | 4            |
+| $\color{#96243c}{\textsf{Psychology}}$      | 0            |
+| $\color{#1f7c8e}{\textsf{Security}}$        | 0*           |
+| $\color{#1f7c8e}{\textsf{Technology}}$      | 3            |
+| $\color{#38773c}{\textsf{Deduction}}$       | 1            |
+| $\color{#38773c}{\textsf{Education}}$       | 2            |
+| $\color{Purple}\textsf{\textsf{Auspex}}$    | 1            |
+| $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 1            |
+| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0            |
+
+*`*This excludes the impossible ranks`*
