@@ -91,7 +91,7 @@
 | $\color{#96243c}{\textsf{Intimidation}}$   | 3            |
 | $\color{#96243c}{\textsf{Persuasion}}$     | 4            |
 | $\color{#96243c}{\textsf{Psychology}}$     | 3            |
-| $\color{#1f7c8e}{\textsf{Security}}$       | 6*           |
+| $\color{#1f7c8e}{\textsf{Security}}$       | 0*           |
 | $\color{#1f7c8e}{\textsf{Technology}}$     | 4            |
 | $\color{#38773c}{\textsf{Deduction}}$      | 1            |
 | $\color{#38773c}{\textsf{Education}}$      | 2            |
@@ -99,7 +99,7 @@
 | $\color{Purple}\textsf{\textsf{Celerity}}$ | 0            |
 | $\color{Purple}\textsf{\textsf{Presence}}$ | 0*           |
 
-*`*This excludes the impossible ranks in the intro, before you access the skill tree`*
+*`*This excludes the impossible ranks`*
 
 **The mission reward is 75 Experience if all tasks were completed.** (Weirdly you will get the end screen only after Leysha's mission)
 
@@ -164,6 +164,52 @@
 | $\color{#38773c}{\textsf{Education}}$       | 2            |
 | $\color{Purple}\textsf{\textsf{Auspex}}$    | 1            |
 | $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 1            |
+| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0            |
+
+*`*This excludes the impossible ranks`*
+
+### Scene 01 (Galeb)
+- Talking with **Underwood**
+	- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ A member of the Primogen, here? How strange...
+	- $\color{#96243c}{\textsf{[Psychology 3]}}$ He seems tense
+	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$)
+		- *Succeeding grants "**My lips are sealed**" (-20xp cost Fortitude)*
+		- *Failing grants "**Chatterbox**" (-10% Intimidation tie)*
+- Entrance
+	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Study writing (file on table)
+		- *Reveals the paper is Berel's and he was trying to contact some associates.*
+- Main room
+	-  $\color{#d67c22}{\textsf{High-Security Key}}$ is in a box on the left side. Opens Kaius's safe.
+	- $\color{#38773c}{\textsf{[Education 2]}}$ Study document (paper)
+		- *Reveals Dr. Dunham's research on Stabilized Blood is progressing, but not completed.*
+- **Kaius**' Office
+	- $\color{#38773c}{\textsf{[Education 2]}}$ Use your knowledge (file cabinet)
+		- *Reveals the Prince is doing a background check on all non-vampire associates.*
+	- $\color{#1f7c8e}{\textsf{[Technology 4]}}$ Hack (laptop)
+		- *This laptop can be unlocked with 4965, but this code only appears in a later mission.*
+	- $\color{#1f7c8e}{\textsf{[Security 3]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock (safe) (Key is in the main room)
+		- $\color{#46b233}{\textsf{Old Coins}}$ (+5 willpower) is inside.
+	-  $\color{#d67c22}{\textsf{Magnetic Keycard to the Server Room}}$ is on the table.
+- Server room
+	- $\color{#1f7c8e}{\textsf{[Technology 2]}}$ Hack (pc)
+		- *Reveals Kaius suspects Crimson Oaks.*
+- Talking with **Kaius** (***NO RETURN***)
+	- $\color{#38773c}{\textsf{[Education 1]}}$ I've heard of them!
+
+**The mission reward is 125 Experience if all tasks were completed.**
+
+| **SKILL**                                   | **MAX RANK** |
+| ------------------------------------------- | ------------ |
+| $\color{#96243c}{\textsf{Rhetoric}}$        | 4            |
+| $\color{#96243c}{\textsf{Intimidation}}$    | 0            |
+| $\color{#96243c}{\textsf{Persuasion}}$      | 4            |
+| $\color{#96243c}{\textsf{Psychology}}$      | 3            |
+| $\color{#1f7c8e}{\textsf{Security}}$        | 3            |
+| $\color{#1f7c8e}{\textsf{Technology}}$      | 2*           |
+| $\color{#38773c}{\textsf{Deduction}}$       | 1            |
+| $\color{#38773c}{\textsf{Education}}$       | 2            |
+| $\color{Purple}\textsf{\textsf{Fortitude}}$ | 2            |
+| $\color{Purple}\textsf{\textsf{Presence}}$  | 0            |
 | $\color{Purple}\textsf{\textsf{Dominate}}$  | 0            |
 
 *`*This excludes the impossible ranks`*
