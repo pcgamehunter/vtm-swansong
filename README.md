@@ -2,6 +2,8 @@
 
 ## Notes
 - So **Presence** and **Dominate** are basically useless. For some reason there are like 5 dialogue options in the game, many of them Rank 1 and with forced failure.
+- **Talent**'s are bonuses given for doing certain things, often many times. So you should try to use skills and disciplines at much as possible. Also make sure to feed on vessels and rats as much as possible to max these bonuses early!
+- Note that the **Ascetic** talent is broken and cannot be unlocked. So always feed as much as possible, even when you don't need the blood.
 
 ## Skill Checks, Codes and Items
 - **Attributes** are very powerful, they make focusing more powerful AND reduce willpower cost.
