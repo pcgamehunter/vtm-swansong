@@ -1,10 +1,9 @@
-# Vampire The Masquerade: Swansong
+# Vampire the Masquerade: Swansong
 
 ## Notes
 - So **Presence** and **Dominate** are basically useless. For some reason there are like 5 dialogue options in the game, many of them Rank 1 and with forced failure.
 - **Talent**'s are bonuses given for doing certain things, often many times. So you should try to use skills and disciplines at much as possible. Also make sure to feed on vessels and rats as much as possible to max these bonuses early!
 - Note that the **Ascetic** talent is broken and cannot be unlocked. So always feed as much as possible, even when you don't need the blood.
-
 ## Skill Checks, Codes and Items
 - **Attributes** are very powerful, they make focusing more powerful AND reduce willpower cost.
 - $\color{#96243c}{\textsf{Social skills}}$ use $\color{#2c8eea}{\textsf{willpower}}$, they can also be **focused** which increases the rank, but uses 2 willpower for first rank and grows exponentionally each rank . To focus a skill, it must be at least rank 1!
@@ -12,74 +11,76 @@
 - $\color{#38773c}{\textsf{Knowledge skills}}$ don't use willpower and cannot be focused.
 - $\color{Purple}\textsf{\textsf{Disciplines}}$ use $\color{#b738d1}{\textsf{hunger}}$, cannot be focused and may not work, depending on the target, but also sometimes lead to the best outcome.
 
-### Scene 01 (Emem)
+### Scene 01 - Prince's Tower  (Emem)
 - In the elevator
-	- $\color{#96243c}{\textsf{[Psychology 1]}}$ $\color{#2c8eea}{\textsf{3◆}}$ She has nothing to hide $\color{Green}\textsf{\textsf{(Guaranteed Pass)}}$
-	- $\color{#96243c}{\textsf{[Persuasion 2]}}$ $\color{#2c8eea}{\textsf{3◆}}$ One thing at a time... $\color{Red}\textsf{\textsf{(Impossible)}}$
-- Talking with **April**
+	- $\color{#96243c}{\textsf{[Psychology 1]}}$ She has nothing to hide $\color{Green}\textsf{\textsf{(Guaranteed Pass)}}$
+	- $\color{#96243c}{\textsf{[Persuasion 2]}}$ One thing at a time... $\color{Red}\textsf{\textsf{(Impossible)}}$
+- Talking with **April Bosley**
 	- $\color{Purple}\textsf{\textsf{[Presence 3]}}$ $\color{#b738d1}{\textsf{3🌢}}$ Flatter April $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
-		- *Unlocks "Put in her place" (-10xp cost Mental)*
-	- $\color{#96243c}{\textsf{[Persuasion 3]}}$ $\color{#2c8eea}{\textsf{3◆}}$ Back Journey Up $\color{Red}\textsf{\textsf{(Impossible)}}$
-		- *If you use cheats, you will unlock "Ready for action" (-20xp cost Social)*
-- Talking with **Hilda**
-	- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ $\color{#2c8eea}{\textsf{3◆}}$ Does she know anything about the Code Red? $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
-	- $\color{#96243c}{\textsf{[Intimidation 3]}}$ $\color{#2c8eea}{\textsf{3◆}}$ She should mind her own business $\color{Red}\textsf{\textsf{(Impossible)}}$
+		- Unlocks "**Put in her place**" (-10xp cost Mental)
+	- $\color{#96243c}{\textsf{[Persuasion 3]}}$ Back Journey Up $\color{Red}\textsf{\textsf{(Impossible)}}$
+		- If you use cheats, you will unlock "**Ready for action**" (-20xp cost Social)
+- Talking with **Hilda McAndrews**
+	- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ Does she know anything about the Code Red? $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
+	- $\color{#96243c}{\textsf{[Intimidation 3]}}$ She should mind her own business $\color{Red}\textsf{\textsf{(Impossible)}}$
 		- *If you use cheats on either of these, you will be locked into the tutorial, requiring a reload. The second option, just ends dialogue early.*
-- Talking with **Underwood**
-	- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ $\color{#2c8eea}{\textsf{3◆}}$ What is he interested in? $\color{Red}\textsf{\textsf{(Impossible)}}$
+- Talking with **Berel Underwood**
+	- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ What is he interested in? $\color{Red}\textsf{\textsf{(Impossible)}}$
 		- *If you use cheats, Berel will mention how Anarchs are welcomed in your clubs.*
-- Talking with **Iversen**
+- Talking with **Hazel Iversen**
 	- $\color{#38773c}{\textsf{[Education 1]}}$ Business as usual...
 - At the bar
+	- 2x $\color{Green}{\textsf{◆}}$ Safe zones in the alcoves opposite each other.
 	- $\color{#b738d1}{\textsf{🌢🌢}}$ The older man (leaning on the bar) gives $\color{Purple}\textsf{\textsf{Phlegmatic Resonance (Auspex)}}$ 
 	- $\color{#b738d1}{\textsf{🌢🌢}}$ The younger man gives $\color{Purple}\textsf{\textsf{Choleric Resonance (Celerity)}}$ 
 	- $\color{#b738d1}{\textsf{🌢🌢}}$ The young woman gives $\color{Purple}\textsf{\textsf{Sanguine Resonance (Presence)}}$ 
 	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track
 		- *Journey's scarf is in one of the alcoves. Activating it creates a scent trail to her.*
-- Talking with **Victoria**
-	- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ $\color{#2c8eea}{\textsf{3◆}}$ She's interested in the agreement with Hartford?
+- Talking with **Victoria Ash**
+	- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ She's interested in the agreement with Hartford?
 		- *Victoria will reveal she sent an emissary to Hartfort, he can be found in a later mission along with two notes, that you can return to Victoria.*
-- Talking with **Underwood**
+- Talking with **Berel Underwood**
 	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Does he know something? $\color{Red}\textsf{\textsf{(Impossible)}}$
 		- *If you use cheats, he will say that Journey will likely be executed.*
 	- $\color{#96243c}{\textsf{[Intimidation 2]}}$ He think's he's too smart
+		- *He will claim he doesn't know anything.*
 - Offices
 	- *Although Emem will say she has to hurry to not get caught, it's impossible to be caught snooping. So feel free to take your time.*
-	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ $\color{#2c8eea}{\textsf{3◆}}$ Bypass lock (archive door) (keycard in Sheridan's office)
-- Journey's Office
+	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ Bypass lock (archive door) (keycard in Sheridan's office)
+- **Journey Atkins**'s Office
 	- $\color{#46b233}{\textsf{Club Business Cards}}$ (+5 willpower) can be found on the cabinet.
-	- $\color{#1f7c8e}{\textsf{[Technology 2]}}$ $\color{#2c8eea}{\textsf{3◆}}$ Recover search history (pc)
+	- $\color{#1f7c8e}{\textsf{[Technology 2]}}$ Recover search history (pc)
 		- *Shows that Journey was looking into a file Jara Drory removed on the Hartfort Unification party.*
-- Nurmi's Office
-	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ $\color{#2c8eea}{\textsf{3◆}}$ Recover deleted messages (pager)
+- **Abigail Nurmi**'s Office
+	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ Recover deleted messages (pager)
 		- *Shows that Journey was trying to get in touch with Abigail by email.*
 	- $\color{#38773c}{\textsf{[Education 1]}}$ Analyze paper (burning paper)
 		- *Reveals the paper is from the archives*
-- Sheridan's Office
+- **Larazus Sheridan**'s Office
 	- $\color{#d67c22}{\textsf{Magnetic Key Card}}$ (archives) in a bowl on the cabinet.
-- April's Office
+- **April Bosley**'s Office
 	- $\color{#96243c}{\textsf{[Psychology 3]}}$ They're close
 		- *April reveals several members are pushing blame on Journey*
 - Archives
 	- One of the cabinets in here has the safe code: 9138
-	- $\color{#1f7c8e}{\textsf{[Technology 4]}}$ Hack safe (code 9138)
+	- $\color{#1f7c8e}{\textsf{[Technology 4]}}$ Hack safe (code 9138) $\color{Red}\textsf{\textsf{(Impossible)}}$
 	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Observe carefully (file in cabinet)
 		- *Emem concludes the file on the Reunification Party is missing.*
 	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track (file in another cabinet)
 		- *Creates a trail leading into Nurmi's office.*
-- Round Table room (floor 2)
+- Round Table Room (floor 2)
 	- $\color{#38773c}{\textsf{[Education 2]}}$ Use your knowledge (book)
-- Talking with **Hilda**
+- Talking with **Hilda McAndrews**
 	- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ Nothing but smoke
 	- $\color{#96243c}{\textsf{[Intimidation 3]}}$ Does she have something else to say?
-- Dijan's room
+- **Dijan Siaka**'s Room
 	- The key is given to Leysha next scene.
-	- $\color{#1f7c8e}{\textsf{[Security 6]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+	- $\color{#1f7c8e}{\textsf{[Security 6]}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
 		- *If you use cheats, you can enter the room, but it will sound like you're playing as Leysha.*
-- Door to the top atrium
-	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock (to atrium) $\color{Red}\textsf{\textsf{(Impossible)}}$
+- Door to the Top Atrium
+	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ Pick lock (to atrium) $\color{Red}\textsf{\textsf{(Impossible)}}$
 		- *If you use cheats, to enter the primogen area, it will seem like you're playing as Leysha. The game will often break and lock up.*
-- Enter Jara Drory's room (***NO RETURN***)
+- Enter **Jara Drory**'s Room (***NO RETURN***)
 	- $\color{Red}{\textsf{[Choice]}}$ Take Journey to the prince
 		- If Leysha finds the red file in the same room, Journey will live.
 		- If Leysha doesn't find the red file, Journey will be executed.
@@ -87,27 +88,10 @@
 		- If Leysha finds the red file in the same room, Journey will still look suspicious, by running.
 		- If Leysha doesn't find the red file, Journey will avoid execution.
 
-| **SKILL**                                  | **MAX RANK** |
-| ------------------------------------------ | ------------ |
-| $\color{#96243c}{\textsf{Rhetoric}}$       | 2*           |
-| $\color{#96243c}{\textsf{Intimidation}}$   | 3            |
-| $\color{#96243c}{\textsf{Persuasion}}$     | 4            |
-| $\color{#96243c}{\textsf{Psychology}}$     | 3            |
-| $\color{#1f7c8e}{\textsf{Security}}$       | 0*           |
-| $\color{#1f7c8e}{\textsf{Technology}}$     | 4            |
-| $\color{#38773c}{\textsf{Deduction}}$      | 1            |
-| $\color{#38773c}{\textsf{Education}}$      | 2            |
-| $\color{Purple}\textsf{\textsf{Auspex}}$   | 1            |
-| $\color{Purple}\textsf{\textsf{Celerity}}$ | 0            |
-| $\color{Purple}\textsf{\textsf{Presence}}$ | 0*           |
-
-*`*This excludes the impossible ranks`*
-
 **The mission reward is 75 Experience if all tasks were completed.** (Weirdly you will get the end screen only after Leysha's mission)
-
-### Scene 01 (Leysha)
+### Scene 01 - Prince's Tower (Leysha)
 - $\color{Red}{\textsf{[Choice]}}$ Give-in to the premonition
-	- *Unlocks "**Introspective**" (-20XP cost Auspex)*
+	- Unlocks "**Introspective**" (-20XP cost Auspex)
 - $\color{Red}{\textsf{[Choice]}}$ Focus on Emem and Journey
 	- Allows you to watch the scene from Leysha's perspective.
 - **Jara**'s room
@@ -115,10 +99,10 @@
 	- $\color{#d67c22}{\textsf{File on the Unification Party Planning}}$ can be found on a shelf on the left side, the file is red.
 		- *This evidence clears Journey of suspicion, saving her life.*
 	- A picture in the living room has the computer passcode: 1841 
-	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ $\color{#2f5981}{\textsf{6◆}}$ Bypass the lock (pc) (code 1841)
+	- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ Bypass the lock (pc) (code 1841)
 	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ An obfuscated box can be seen with Auspex on the bed, but cannot be opened.
 - **Dijan**'s room
-	- $\color{#1f7c8e}{\textsf{[Security 6]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+	- $\color{#1f7c8e}{\textsf{[Security 6]}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
 	- $\color{#38773c}{\textsf{[Education 1]}}$ Use your knowledge (newpaper, read first)
 	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Study animal (dead bird)
 	- $\color{#38773c}{\textsf{[Education 2]}}$ Analyze scene (dead bird)
@@ -126,9 +110,9 @@
 	- $\color{#38773c}{\textsf{[Education 1]}}$ Analyze blood (knife)
 	- $\color{#46b233}{\textsf{Polariod}}$ (+5 willpower) can be found behind the table with tarot cards.
 - Door to the top atrium
-	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
 - Door to the Primogen rooms
-	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ $\color{#2f5981}{\textsf{3◆}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
+	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ Pick lock $\color{Red}\textsf{\textsf{(Impossible)}}$
 - **Hilda**'s room
 	- A computer is in her room, but you cannot interact with it due to obfuscate.
 	- A drawer cannot be opened due to obfuscate.
@@ -154,29 +138,13 @@
 
 **The mission reward is 125 Experience if all tasks were completed.**
 
-| **SKILL**                                   | **MAX RANK** |
-| ------------------------------------------- | ------------ |
-| $\color{#96243c}{\textsf{Rhetoric}}$        | 4            |
-| $\color{#96243c}{\textsf{Intimidation}}$    | 0            |
-| $\color{#96243c}{\textsf{Persuasion}}$      | 4            |
-| $\color{#96243c}{\textsf{Psychology}}$      | 0            |
-| $\color{#1f7c8e}{\textsf{Security}}$        | 0*           |
-| $\color{#1f7c8e}{\textsf{Technology}}$      | 3            |
-| $\color{#38773c}{\textsf{Deduction}}$       | 1            |
-| $\color{#38773c}{\textsf{Education}}$       | 2            |
-| $\color{Purple}\textsf{\textsf{Auspex}}$    | 1            |
-| $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 1            |
-| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0            |
-
-*`*This excludes the impossible ranks`*
-
-### Scene 01 (Galeb)
+### Scene 01  - Prince's Tower (Galeb)
 - Talking with **Underwood**
 	- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ A member of the Primogen, here? How strange...
 	- $\color{#96243c}{\textsf{[Psychology 3]}}$ He seems tense
 	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$)
-		- *Succeeding grants "**My lips are sealed**" (-20xp cost Fortitude)*
-		- *Failing grants "**Chatterbox**" (-10% Intimidation tie)*
+		- Succeeding grants "**My lips are sealed**" (-20xp cost Fortitude)
+		- Failing grants "**Chatterbox**" (-10% Intimidation tie)
 - Entrance
 	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Study writing (file on table)
 		- *Reveals the paper is Berel's and he was trying to contact some associates.*
@@ -199,22 +167,6 @@
 	- $\color{#38773c}{\textsf{[Education 1]}}$ I've heard of them!
 
 **The mission reward is 125 Experience if all tasks were completed.**
-
-| **SKILL**                                   | **MAX RANK** |
-| ------------------------------------------- | ------------ |
-| $\color{#96243c}{\textsf{Rhetoric}}$        | 4            |
-| $\color{#96243c}{\textsf{Intimidation}}$    | 0            |
-| $\color{#96243c}{\textsf{Persuasion}}$      | 4            |
-| $\color{#96243c}{\textsf{Psychology}}$      | 3            |
-| $\color{#1f7c8e}{\textsf{Security}}$        | 3            |
-| $\color{#1f7c8e}{\textsf{Technology}}$      | 2*           |
-| $\color{#38773c}{\textsf{Deduction}}$       | 1            |
-| $\color{#38773c}{\textsf{Education}}$       | 2            |
-| $\color{Purple}\textsf{\textsf{Fortitude}}$ | 2            |
-| $\color{Purple}\textsf{\textsf{Presence}}$  | 0            |
-| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0            |
-
-*`*This excludes the impossible ranks`*
 
 ### Scene 02 - Jason Moore's Apartment (Galeb)
 - Entrance to apartment
@@ -382,20 +334,6 @@
 **Mission rewards 215xp if all tasks were completed**
 **If you let Jason leave, or Lehane takes or kills him it drops to 195 Experience.**
 
-| **SKILL**                                   | **MAX RANK** |
-| ------------------------------------------- | ------------ |
-| $\color{#96243c}{\textsf{Rhetoric}}$        | 3            |
-| $\color{#96243c}{\textsf{Intimidation}}$    | 3            |
-| $\color{#96243c}{\textsf{Persuasion}}$      | 2            |
-| $\color{#96243c}{\textsf{Psychology}}$      | 2            |
-| $\color{#1f7c8e}{\textsf{Security}}$        | 3            |
-| $\color{#1f7c8e}{\textsf{Technology}}$      | 4            |
-| $\color{#38773c}{\textsf{Deduction}}$       | 2            |
-| $\color{#38773c}{\textsf{Education}}$       | 2            |
-| $\color{Purple}\textsf{\textsf{Fortitude}}$ | 0            |
-| $\color{Purple}\textsf{\textsf{Presence}}$  | 1            |
-| $\color{Purple}\textsf{\textsf{Dominate}}$  | 1            |
-
 ### Scene 03 - Unification Party (Leysha)
 - Entrance
 	- Walk up to the officers
@@ -414,11 +352,6 @@
 		- $\color{#96243c}{\textsf{[Psychology X]}}$ I'm not feeling sure of myself either $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
 		- Let's take a timeout $\color{Green}{\textsf{(Pass)}}$
 		- Now's not the time for this! $\color{Red}{\textsf{(Lose)}}$
-		- I'm stumped $\color{Red}{\textsf{(Lose)}}$
-		- I know...
-			- The cold $\color{Green}{\textsf{(Pass)}}$
-			- The Kindred $\color{Red}{\textsf{(Lose)}}$
-			- Death $\color{Red}{\textsf{(Lose)}}$
 	- Phase 2
 		- $\color{#96243c}{\textsf{[Rhetoric X]}}$ A hint? $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
 		- $\color{Purple}\textsf{\textsf{[Dominate X]}}$ $\color{#b738d1}{\textsf{2🌢}}$ We don't have time for this... $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
@@ -524,7 +457,6 @@
 	- Ripped of arm
 		- $\color{#38773c}{\textsf{[Education 1]}}$ Analyze wound
 			- *Reveals it was likely done by Jara Drory*
-
 - ***Confrontation with Dr. Dunham*** (wow you're welcome dr.)
 	- Phase 3, misses 1
 	- **Phase 1**
@@ -607,23 +539,6 @@
 
 **Completing all objectives awards 175 Experience.**
 
-| **SKILL**                                   | **MAX RANK** |
-| ------------------------------------------- | ------------ |
-| $\color{#96243c}{\textsf{Rhetoric}}$        | 3            |
-| $\color{#96243c}{\textsf{Intimidation}}$    | 0*           |
-| $\color{#96243c}{\textsf{Persuasion}}$      | 3*           |
-| $\color{#96243c}{\textsf{Psychology}}$      | 4            |
-| $\color{#1f7c8e}{\textsf{Security}}$        | 2            |
-| $\color{#1f7c8e}{\textsf{Technology}}$      | 2            |
-| $\color{#38773c}{\textsf{Deduction}}$       | 2            |
-| $\color{#38773c}{\textsf{Education}}$       | 2            |
-| $\color{Purple}\textsf{\textsf{Auspex}}$    | 3            |
-| $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 3**          |
-| $\color{Purple}\textsf{\textsf{Dominate}}$  | 1            |
-
-`*Excludes matched ranks from Halsey's Confrontation provided by Dr. Dunham's potion`
-`** Rank 3 can be gained by using Dr. Dunham's potion`
-
 ### Scene 04 - Hartfort Chantry (Emem)
 - Note that you can unlock many Talents related to feeding on people and rats, in this level. The **Ascetic** talent is broken and cannot be unlocked.
 - Emem's cell
@@ -670,31 +585,31 @@
 		- Interact with the blue candle to trigger the ***Memory of Emem's Embrace***
 		- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{0🌢}}$ Blink back up
 - **Right cell block** (Facing the tower/leaving the library)
-		- *Use Fleetness to enter through the gate or Blink into the praying man's cell block to enter.*
-		- The first cell contains the $\color{#b738d1}{\textsf{🌢🌢}}$ praying man with $\color{Purple}\textsf{\textsf{Phlegmatic Resonance (Auspex)}}$
-		- The second cell was yours, where the mission began.
-		- The third cell is collapsed and can't be entered from this side.
-			- $\color{#b738d1}{\textsf{🌢🌢}}$ 1x rat (in front of the cell, may clip into the rubble)
-		- The fourth cell contains a $\color{#b738d1}{\textsf{🌢🌢}}$ woman with $\color{Purple}\textsf{\textsf{X Resonance (X)}}$
-			- *If you stay for a while, the woman will complain about someone squeezing too hard, causing a bird to die.*
-		- The fifth cell
-			- Contains a $\color{#b738d1}{\textsf{🌢🌢}}$ man with $\color{Purple}\textsf{\textsf{X Resonance (X)}}$
-			- Examine the bottles, towards the sound of thumping music, to trigger the ***Memory of Journey***.
-		- Follow the path to the end of the block
-			- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink down towards the room with medical equipment.
-				- $\color{#46b233}{\textsf{Magnetic Key}}$ (+1 $\color{#1f7c8e}{\textsf{Technology}}$ for next interaction) on a barrel on the right.
-				- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (on surgical tray)
-					- *Reveals memory of Clyde extracting resources from Kurt Densch.*
-				- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{?🌢}}$ See Premonition (on chair next to the tray)
-					*- Reveals a image of Galeb sitting, while surrounded by blades and fire on all sides. Screams of pain can be heard in the background.*
-				-  $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink down into the bloody red room
-					- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (on wall chain)
-						- *Reveals Maddox feeding a victim to the prisoner, presumably Densch*
-					- Interact with the bed to trigger ***Memory of Emem's Rape***
-						- If this is the 4th memory you got, you will lose "**Amnesia**". You can go inspect the $\color{#d67c22}{\textsf{Thaumaturgical Coin}}$ and take it.
-					- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink back
-		-  Walk all the way back to the cell blocks gate
-		- Open the gate with the lever on the left side of the wall
+	- *Use Fleetness to enter through the gate or Blink into the praying man's cell block to enter.*
+	- The first cell contains the $\color{#b738d1}{\textsf{🌢🌢}}$ praying man with $\color{Purple}\textsf{\textsf{Phlegmatic Resonance (Auspex)}}$
+	- The second cell was yours, where the mission began.
+	- The third cell is collapsed and can't be entered from this side.
+		- $\color{#b738d1}{\textsf{🌢🌢}}$ 1x rat (in front of the cell, may clip into the rubble)
+	- The fourth cell contains a $\color{#b738d1}{\textsf{🌢🌢}}$ woman with $\color{Purple}\textsf{\textsf{X Resonance (X)}}$
+		- *If you stay for a while, the woman will complain about someone squeezing too hard, causing a bird to die.*
+	- The fifth cell
+		- Contains a $\color{#b738d1}{\textsf{🌢🌢}}$ man with $\color{Purple}\textsf{\textsf{X Resonance (X)}}$
+		- Examine the bottles, towards the sound of thumping music, to trigger the ***Memory of Journey***.
+	- Follow the path to the end of the block
+		- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink down towards the room with medical equipment.
+			- $\color{#46b233}{\textsf{Magnetic Key}}$ (+1 $\color{#1f7c8e}{\textsf{Technology}}$ for next interaction) on a barrel on the right.
+			- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (on surgical tray)
+				- *Reveals memory of Clyde extracting resources from Kurt Densch.*
+			- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{?🌢}}$ See Premonition (on chair next to the tray)
+				*- Reveals a image of Galeb sitting, while surrounded by blades and fire on all sides. Screams of pain can be heard in the background.*
+			-  $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink down into the bloody red room
+				- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (on wall chain)
+					- *Reveals Maddox feeding a victim to the prisoner, presumably Densch*
+				- Interact with the bed to trigger ***Memory of Emem's Rape***
+					- If this is the 4th memory you got, you will lose "**Amnesia**". You can go inspect the $\color{#d67c22}{\textsf{Thaumaturgical Coin}}$ and take it.
+			- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink back
+	-  Walk all the way back to the cell blocks gate
+	- Open the gate with the lever on the left side of the wall
 - **Left cell block**
 	- Enter the block using Fleetness to pass under the gate before it closes.
 	- The first cell contains a $\color{#b738d1}{\textsf{🌢🌢}}$ woman with $\color{Purple}\textsf{\textsf{X Resonance (X)}}$
@@ -733,51 +648,265 @@
 - ***Confrontation with Hartford***
 	- 4 phases, 2 misses allowed
 	- **Phase 1** 
-		- $\color{#96243c}{\textsf{[Intimidation 1]}}$ Defend
-			- Pass on success, lose on failure
+		- $\color{#96243c}{\textsf{[Intimidation 1]}}$ Defend $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
 		- Not defending loses the phase
 	- Break in the confrontation
 		- $\color{#38773c}{\textsf{[Deduction 2]}}$ I knew it...			
 	- **Phase 2**
-		- $\color{#96243c}{\textsf{[Psychology 2]}}$ He knows there's no way I can prove it
-		- $\color{#96243c}{\textsf{[Persuasion 2]}}$ If I wanted to destroy them, I wouldn't 
-		- $\color{#96243c}{\textsf{[Rhetoric 3]}}$ We would have never dared to attach them
-			- $\color{Green}{\textsf{Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure}}$
-		- Hazel spent months preparing for that party
-			- $\color{Green}{\textsf{Pass}}$
-		- We had an agreement
-			- $\color{Red}{\textsf{Lose}}$
+		- $\color{#96243c}{\textsf{[Psychology 2]}}$ He knows there's no way I can prove it $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+		- $\color{#96243c}{\textsf{[Persuasion 2]}}$ If I wanted to destroy them, I wouldn't $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+		- $\color{#96243c}{\textsf{[Rhetoric 3]}}$ We would have never dared to attach them $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+		- Hazel spent months preparing for that party $\color{Green}{\textsf{(Pass)}}$
+		- We had an agreement $\color{Red}{\textsf{(Lose)}}$
 	- **Phase 3**
-		- $\color{#96243c}{\textsf{[Persuasion 2]}}$ Of course I know it!
-			- $\color{Green}{\textsf{Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure}}$
-		- The agreement about the blood trade (likely requires reading up on it)
-			- $\color{Green}{\textsf{Pass}}$
-		- I don't know
-			- $\color{Red}{\textsf{Lose}}$
+		- $\color{#96243c}{\textsf{[Persuasion 2]}}$ Of course I know it! $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+		- The agreement about the blood trade (likely requires reading up on it) $\color{Green}{\textsf{(Pass)}}$
+		- I don't know $\color{Red}{\textsf{(Lose)}}$
 	- **Phase 4**
 		- $\color{#38773c}{\textsf{[Education 2]}}$ I can't negotiate in Hazel's place (loops back)
-		- A neighborhood in Boston
-			- $\color{Green}{\textsf{Pass}}$
-		- My place in the Primogen
-		- Money. Lost of money.
-			- $\color{Red}{\textsf{Lose}}$
+		- A neighborhood in Boston $\color{Green}{\textsf{(Pass)}}$
+		- My place in the Primogen $\color{Red}{\textsf{(Lose)}}$
+		- Money. Lost of money. $\color{Red}{\textsf{(Lose)}}$
 	- Winning the confrontation grants "**Diplomat**" (-20xp cost Social)
 
 **The mission reward is 200 Experience if all tasks were completed.**
 **Losing the confrontation drops to 135 Experience.**
 
-| **SKILL**                                  | **MAX RANK** |
-| ------------------------------------------ | ------------ |
-| $\color{#96243c}{\textsf{Rhetoric}}$       | 3            |
-| $\color{#96243c}{\textsf{Intimidation}}$   | 1            |
-| $\color{#96243c}{\textsf{Persuasion}}$     | 2            |
-| $\color{#96243c}{\textsf{Psychology}}$     | 2            |
-| $\color{#1f7c8e}{\textsf{Security}}$       | 0            |
-| $\color{#1f7c8e}{\textsf{Technology}}$     | 0            |
-| $\color{#38773c}{\textsf{Deduction}}$      | 2            |
-| $\color{#38773c}{\textsf{Education}}$      | 2            |
-| $\color{Purple}\textsf{\textsf{Auspex}}$   | 3            |
-| $\color{Purple}\textsf{\textsf{Celerity}}$ | 2*           |
-| $\color{Purple}\textsf{\textsf{Presence}}$ | 0            |
+###  Scene 05 (Galeb)
+- At the bar
+	- Talking with **Feng**
+		- $\color{#38773c}{\textsf{[Education 2]}}$ Hey I've heard that
+		- $\color{#96243c}{\textsf{[Psychology 2]}}$ She's asking too many questions about Berel...
+		- $\color{#96243c}{\textsf{[Intimidation 1]}}$ If she has something to tell me, she's better say it!
+	- Talk with **Sylvia**
+		- You can get some details on Feng and Sylvia during the conversation
+	- 2x $\color{Green}{\textsf{◆}}$ Safe Zone - Alcove (both at the bar)
+- Offices
+	- Talking with **April**
+		- $\color{#96243c}{\textsf{[Psychology 3]}}$ I've never seen her so worried
+			- *April is questioning if Hazel's reign can survives this attack. She also warns Galeb he has much to lose. Not stating it outright, but hinting at Feng.*
+- Roundtable Room (second floor)
+	- Talking with **Victoria**
+		- $\color{#96243c}{\textsf{[Psychology 2]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$)
+			- *Galeb hides how much the departure of his Sire affects him.*
+		- $\color{#96243c}{\textsf{[Persuasion 4]}}$ It's for Feng's own good
+			- *Victoria reveals Berel has spoken to Feng.*
+- Talking with **Hilda** (upper atrium)
+	- *This conversation triggers a bug, which locks all 3 doors leading into the atrium, requiring you to use the elevator and circling more than necessary. Reloading the save, fixes it*
+	- $\color{#96243c}{\textsf{[Intimidation 3]}}$ It's a bad time to be hiding things
+	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Talking to me would be in her best interest
+		- *Hilda will say she's inflating art prices with Berel.*
+- **Hilda**'s Room
+	- $\color{#1f7c8e}{\textsf{[Security 5]}}$ Pick lock (entrance)
+	- A file on her desk for "Cautopates" can be found.
+		- *This appears to be the same file **Lehane** was send to cleanup.*
+- **Underwood**'s Room
+	- $\color{Purple}\textsf{\textsf{[Auspex]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Sense aura (Feng magazine)
+		- *Reveals Feng held this magazine, so she must have been here.*
+	- $\color{Purple}\textsf{\textsf{[Auspex]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Sense aura (glass)
+- Take the elevator to -1
+- **Kaius**' Room
+	- Safe
+		- $\color{#46b233}{\textsf{Old coin}}$ (+5 willpower) in safe as last time.
+	- Computer 
+		- $\color{#1f7c8e}{\textsf{[Technology 4]}}$ Hack (laptop)
+		- Code is 4965
+- Server room
+	- A note inside a toolbox, has Kaius' pc password on the last page: 4965
+- Holding cells (take stairs down)
+	- Talking with **James** (Moore's bodyguard)
+		- $\color{#96243c}{\textsf{[Psychology 1]}}$ Calm him down
+		- *You can learn more about the events from his perspective*
+	- If you took **Jason** in, you can speak to him in the other cell.
+	- If you took **Lehane** in, you can speak to her in the other cell.
+- **Final Choice**:
+	- You have two choices.
+	- One is to confront **Berel** about speaking with Feng.
+		- Successfully intimidating him, will prevent him from interfering in your plans with Feng.
+		- Failing will continue as if you did not confront him
+	- Two is to help **Kaius**, this allows you to get some more details on Jara Drory and was she was up to.
+	- If Emem released **Kurt Densch**, he will appear in Jara's apartment and Galeb and the Prince will learn of his return.
+- $\color{Red}{\textsf{[Choice]}}$ Confront Berel
+	- Go to his apartment in the Primogen block
+	- ***Confrontation with Berel***
+		- 5 phases, 2 misses
+		- **Phase 1**
+			- I decide who she can see! $\color{Red}{\textsf{(Lose)}}$
+			- $\color{#96243c}{\textsf{[Psychology 3]}}$ This feels like one of his manipulations $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Why is he trying to deceive me? $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- I know he saw her here! $\color{Green}{\textsf{(Pass)}}$ (Heard from Feng or evidence)
+		- **Phase 2**
+			- Let me worry about her $\color{Green}{\textsf{(Pass)}}$
+			- She doesn't need his advice $\color{Red}{\textsf{(Lose)}}$
+			- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ Is he talking about himself? $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+		- **Phase 3**
+			- $\color{#96243c}{\textsf{[Psychology 3]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$) $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- Don't defend yourself $\color{Red}{\textsf{(Lose)}}$
+		- **Phase 4**
+			- $\color{#96243c}{\textsf{[Intimidation 2]}}$ I'll last longer than he will $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Feng will be ready $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- He's being disloyal $\color{Green}{\textsf{(Pass)}}$
+			- I don't want to talk about it $\color{Red}{\textsf{(Lose)}}$
+		- **Phase 5**
+			- $\color{#96243c}{\textsf{[Intimidation 2]}}$ Because I might lose my temper $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ It would not be in his interest for this to get out $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- I shouldn't have to explain myself $\color{Red}{\textsf{(Lose)}}$
+			- Because I'm his sire and I've got the patience to ask $\color{Red}{\textsf{(Lose)}}$
+- $\color{Red}{\textsf{[Choice]}}$ Help Kaius
+- Talking to **Hazel**
+	- $\color{#38773c}{\textsf{[Education 1]}}$ I know that place
 
-`*Rank 2 can be temporarily achieved by consuming the Tremere Potion found in the level.
+**Completing the mission with all tasks awards 225xp**
+
+### Scene 05 (Emem)
+- Talking with **Hilda**
+	- $\color{#96243c}{\textsf{[Psychology 3]}}$ What's she got against the Prince?
+	- $\color{#96243c}{\textsf{[Psychology 3]}}$ I'm sure she's got a backup plan
+	- If you recovered your memories during Hartford, you can talk to Hilda about them
+	- $\color{Red}{\textsf{[Choice]}}$ Talk about your memories together.
+		- If you talk about all the memories you unlock "**Get it off your chest**" (-20xp cost Social)
+	- When Hilda asks where you're going on your mission
+		- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Defend (Opponent skill use)
+			- *You hide your mission details from Hilda.*
+		- Don't defend yourself
+			- *You reveal the mission details to Hilda.*
+	- At the bar
+		- Hilda will walk up and drop her key on the counter.
+			- $\color{Purple}\textsf{\textsf{[Celerity 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Snatch
+	- Atrium
+		- If Galeb confronted **Berel** he will spurn Feng saying she's of no importance to him.
+		- You can talk to him before he leaves the area and he will say he's heading to a Red Salon to do cleanup.
+		- Feng will return to the Grey Square Stones Room
+	- Grey Square Stones Room
+		- If you didn't confront Berel, evidence of a meeting with Feng can be found here.
+			- $\color{Purple}\textsf{\textsf{[Celerity 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track
+		- If you do confront Berel, Feng will return here shortly after talking with him in the atrium.
+		- Talking with **Feng**
+			- $\color{#96243c}{\textsf{[Psychology 2]}}$ How is she taking things?
+			- When discussing her specialization
+				- $\color{#38773c}{\textsf{[Education 2]}}$ I see
+	- **Nurmi**'s Office
+		- $\color{#d67c22}{\textsf{Ornate Key}}$ on her desk. (opens Underwood's apartment)
+	- **Journey**'s Office
+		- $\color{#46b233}{\textsf{Club Business Cards}}$ (+5 willpower) on the cabinet
+		- Talking with **Journey**
+			- You can catch up with Journey a little, if Leysha cleared her and she did not run away.
+	- Roundtable room
+		- Talking with **Victoria**
+			- When discussing her emissary and the notes (must find both)
+				- $\color{#96243c}{\textsf{[Persuasion 4]}}$ I didn't find anything else
+			- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ What does she think about Hazel?
+				- She will reveal
+			- When discussing London
+				- $\color{#96243c}{\textsf{[Persuasion 4]}}$ I need to know what I'm up against
+					- *Victoria will tell you about the attack, many elements matching the attack on the party,*
+	- **Underwood**'s room
+		- $\color{#1f7c8e}{\textsf{[Security 5]}}$ Pick lock
+		- Key can be found in Nurmi's office downstairs
+	- **Hilda**'s room
+		- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry
+			- *Reveals a memory of Hilda either obsessing over or blaming Emem.*
+		- A list of names can be found, some cross out, Emem mentions they were the men who raped her.
+		- Phone (in drawer)
+			- $\color{#1f7c8e}{\textsf{[Technology 3]}}$ Hack
+			- The code shape is a flipped N (seen all over the room)
+			- $\color{#d67c22}{\textsf{Hilda's Phone}}$ taken once unlocked
+	- **Dajan**'s Room
+		- A note can be found showing he left the court.
+- **Final Choice:** 
+	- At this point you can break into the Prince apartment or simply go do your mission. I highly recommend breaking-in, as a lot of interesting things can be learned at no cost to the next mission. Be aware you will encounter **Miley**, if she survived, but her dialogue check are fairly easy.
+- $\color{Red}{\textsf{[Choice]}}$ Break into the Princes apartment
+	- Head to April's office and take the elevator.
+	- Entrance
+		- $\color{#46b233}{\textsf{Club Business Cards}}$ (+5 willpower) on the table.
+		- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (sheet music)
+			- *Shows memory of Hazel playing Swan Lake*
+		- Inspect the sheet music for a passcode (BFDAC)
+	- Living Room
+		- Kaius' Report on Underwood can be read on the table.
+		- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Observe in detail (book shelf)
+		- Swan
+			- $\color{#38773c}{\textsf{[Deduction 1]}}$ Observe carefully (empty circle)
+	- Bedroom
+		- If you rescued Miley, she'll be in the bedroom.
+			- $\color{#96243c}{\textsf{[Rhetoric 1]}}$ Change the subject. How's she doing?
+			- $\color{#96243c}{\textsf{[Persuasion 2]}}$ Hazel sent me
+				- Succeeding unlocks "**Childer united**" (-10% Persuasion tie)
+		- Note of Hazel's childe destruction
+			- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{2🌢}}$ See premonition
+				- *Reveals an image of a brightly lid shipping container surrounded by monitors with eyes and crash screens. The sound of sharpening metal in the background.*
+		- $\color{#d67c22}{\textsf{Miniature Swan}}$ on the bookshelf area.
+	- Back to the living room.
+		- Place the $\color{#d67c22}{\textsf{Miniature Swan}}$ in the slot to get the $\color{#d67c22}{\textsf{Silver key}}$
+		- Unlock the glass cabinet with the $\color{#d67c22}{\textsf{Silver key}}$
+		- Press the books in the correct order (BFDAC)
+		- A secret compartment comes out under the cabinet.
+			- Three documents are inside.
+			- *First is about Hazel's interest in getting Emem's clubs.*
+			- *Second reveals Hazel is intentionally stalling Feng's embrace on advice of Berel, to keep Galeb around as long as possible.*
+			- *The third reveals Dr. Dunham killed Hasley, on Hazel's orders and is manipulating Leysha's memories.*
+	- That is all, you can leave using the elevator.
+- $\color{Red}{\textsf{[Choice]}}$ Go see the Anarchs directly.
+	- That is all, you can leave using the elevator.
+	
+**Completing this mission with all objectives nets 140 Experience.**
+
+## Scene Max Ranks
+
+### Emem
+
+| **SKILL**                                  | Princes | Hartford | Princes 2 |     |
+| ------------------------------------------ | ------- | -------- | --------- | --- |
+| $\color{#96243c}{\textsf{Rhetoric}}$       | 2*      | 3        | 2         |     |
+| $\color{#96243c}{\textsf{Intimidation}}$   | 3       | 1        | 0         |     |
+| $\color{#96243c}{\textsf{Persuasion}}$     | 4       | 2        | 4         |     |
+| $\color{#96243c}{\textsf{Psychology}}$     | 3       | 2        | 2         |     |
+| $\color{#1f7c8e}{\textsf{Security}}$       | 0*      | 0        | 5         |     |
+| $\color{#1f7c8e}{\textsf{Technology}}$     | 3*      | 0        | 3         |     |
+| $\color{#38773c}{\textsf{Deduction}}$      | 1       | 2        | 1         |     |
+| $\color{#38773c}{\textsf{Education}}$      | 2       | 2        | 2         |     |
+| $\color{Purple}\textsf{\textsf{Auspex}}$   | 1       | 3        | 3         |     |
+| $\color{Purple}\textsf{\textsf{Celerity}}$ | 0       | 2**      | 2         |     |
+| $\color{Purple}\textsf{\textsf{Presence}}$ | 0*      | 0        | 0         |     |
+
+`*This excludes the impossible ranks`
+`**Rank 2 can be temporarily achieved by consuming the Tremere Potion found in the level.
+
+### Leysha
+
+| **SKILL**                                   | Princes | Loft | Princes 2 |
+| ------------------------------------------- | ------- | ---- | --------- |
+| $\color{#96243c}{\textsf{Rhetoric}}$        | 4       | 3    |           |
+| $\color{#96243c}{\textsf{Intimidation}}$    | 0       | 0**  |           |
+| $\color{#96243c}{\textsf{Persuasion}}$      | 4       | 3**  |           |
+| $\color{#96243c}{\textsf{Psychology}}$      | 0       | 4    |           |
+| $\color{#1f7c8e}{\textsf{Security}}$        | 0*      | 2    |           |
+| $\color{#1f7c8e}{\textsf{Technology}}$      | 3       | 2    |           |
+| $\color{#38773c}{\textsf{Deduction}}$       | 1       | 2    |           |
+| $\color{#38773c}{\textsf{Education}}$       | 2       | 2    |           |
+| $\color{Purple}\textsf{\textsf{Auspex}}$    | 1       | 3    |           |
+| $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 1       | 3*** |           |
+| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0       | 1    |           |
+
+*`*This excludes the impossible ranks`*
+`*Excludes matched ranks from Halsey's Confrontation provided by Dr. Dunham's potion`
+`*** Rank 3 can be gained by using Dr. Dunham's potion`
+
+### Galeb
+
+| **SKILL**                                   | Prince | Moore's | Princes 2 |
+| ------------------------------------------- | ------ | ------- | --------- |
+| $\color{#96243c}{\textsf{Rhetoric}}$        | 4      | 3       | 4         |
+| $\color{#96243c}{\textsf{Intimidation}}$    | 0      | 3       | 2         |
+| $\color{#96243c}{\textsf{Persuasion}}$      | 4      | 2       | 4         |
+| $\color{#96243c}{\textsf{Psychology}}$      | 3      | 2       | 3         |
+| $\color{#1f7c8e}{\textsf{Security}}$        | 3      | 3       | 5         |
+| $\color{#1f7c8e}{\textsf{Technology}}$      | 2*     | 4       | 4         |
+| $\color{#38773c}{\textsf{Deduction}}$       | 1      | 2       | 0         |
+| $\color{#38773c}{\textsf{Education}}$       | 2      | 2       | 2         |
+| $\color{Purple}\textsf{\textsf{Fortitude}}$ | 2      | 0       | 2         |
+| $\color{Purple}\textsf{\textsf{Presence}}$  | 0      | 1       | 0         |
+| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0      | 1       | 0         |
+
+`*This excludes the impossible ranks`
+
