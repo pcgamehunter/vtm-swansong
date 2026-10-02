@@ -2,6 +2,8 @@
 
 ## Notes
 - So **Presence** and **Dominate** are basically useless. For some reason there are like 5 dialogue options in the game, many of them Rank 1 and with forced failure.
+	- Appendix: Presence 2 was seen in Emem's Anarch missions.
+	- Dominate 3 was seen in Galeb and Leysha's later mission only a handful of times.
 - **Talent**'s are bonuses given for doing certain things, often many times. So you should try to use skills and disciplines at much as possible. Also make sure to feed on vessels and rats as much as possible to max these bonuses early!
 - Note that the **Ascetic** talent is broken and cannot be unlocked. So always feed as much as possible, even when you don't need the blood.
 ## Skill Checks, Codes and Items
@@ -16,7 +18,7 @@
 	- $\color{#96243c}{\textsf{[Psychology 1]}}$ She has nothing to hide $\color{Green}\textsf{\textsf{(Guaranteed Pass)}}$
 	- $\color{#96243c}{\textsf{[Persuasion 2]}}$ One thing at a time... $\color{Red}\textsf{\textsf{(Impossible)}}$
 - Talking with **April Bosley**
-	- $\color{Purple}\textsf{\textsf{[Presence 3]}}$ $\color{#b738d1}{\textsf{3🌢}}$ Flatter April $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
+	- $\color{#b738d1}{\textsf{[Presence 3] 3🌢}}$ Flatter April $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
 		- Unlocks "**Put in her place**" (-10xp cost Mental)
 	- $\color{#96243c}{\textsf{[Persuasion 3]}}$ Back Journey Up $\color{Red}\textsf{\textsf{(Impossible)}}$
 		- If you use cheats, you will unlock "**Ready for action**" (-20xp cost Social)
@@ -34,7 +36,7 @@
 	- $\color{#b738d1}{\textsf{🌢🌢}}$ The older man (leaning on the bar) gives $\color{Purple}\textsf{\textsf{Phlegmatic Resonance (Auspex)}}$ 
 	- $\color{#b738d1}{\textsf{🌢🌢}}$ The younger man gives $\color{Purple}\textsf{\textsf{Choleric Resonance (Celerity)}}$ 
 	- $\color{#b738d1}{\textsf{🌢🌢}}$ The young woman gives $\color{Purple}\textsf{\textsf{Sanguine Resonance (Presence)}}$ 
-	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track
+	- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Track
 		- *Journey's scarf is in one of the alcoves. Activating it creates a scent trail to her.*
 - Talking with **Victoria Ash**
 	- $\color{#96243c}{\textsf{[Rhetoric 2]}}$ She's interested in the agreement with Hartford?
@@ -66,7 +68,7 @@
 	- $\color{#1f7c8e}{\textsf{[Technology 4]}}$ Hack safe (code 9138) $\color{Red}\textsf{\textsf{(Impossible)}}$
 	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Observe carefully (file in cabinet)
 		- *Emem concludes the file on the Reunification Party is missing.*
-	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track (file in another cabinet)
+	- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Track (file in another cabinet)
 		- *Creates a trail leading into Nurmi's office.*
 - Round Table Room (floor 2)
 	- $\color{#38773c}{\textsf{[Education 2]}}$ Use your knowledge (book)
@@ -142,7 +144,7 @@
 - Talking with **Underwood**
 	- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ A member of the Primogen, here? How strange...
 	- $\color{#96243c}{\textsf{[Psychology 3]}}$ He seems tense
-	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$)
+	- $\color{#96243c}{\textsf{[Persuasion 4]}}$ Defend (Opponent skill use, can defend with $\color{#b738d1}{\textsf{[Fortitude 2] 2🌢}}$)
 		- Succeeding grants "**My lips are sealed**" (-20xp cost Fortitude)
 		- Failing grants "**Chatterbox**" (-10% Intimidation tie)
 - Entrance
@@ -191,19 +193,19 @@
 - Talking with the **Butler**
 	- $\color{#96243c}{\textsf{[Intimidation 3]}}$ He needs to get a hold of himself!
 	- $\color{#96243c}{\textsf{[Psychology 1]}}$ It's not his fault...
-	- $\color{Purple}\textsf{\textsf{[Presence 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Calm him down
+	- $\color{#b738d1}{\textsf{[Presence 1] 2🌢}}$ Calm him down
 	- $\color{#96243c}{\textsf{[Rhetoric 3]}}$ Was she faithful?
 	- $\color{#38773c}{\textsf{[Deduction 1]}}$ What do you mean "Acting tough"?
 - Talking with **Lena Lehane** (Second floor, left)
 	- $\color{#d67c22}{\textsf{Report on Jara Drory}}$ given immediately. (*Masquerade protection*)
-	- $\color{Purple}\textsf{\textsf{[Dominate 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ I want what she's found!
+	- $\color{#b738d1}{\textsf{[Dominate 1] 2🌢}}$ I want what she's found!
 		- $\color{#d67c22}{\textsf{Appendix on Report on Jara Drory}}$ gained. 
-	- $\color{Purple}\textsf{\textsf{[Dominate 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Make her read the text message about the mission.
+	- $\color{#b738d1}{\textsf{[Dominate 1] 2🌢}}$ Make her read the text message about the mission.
 		- *Reveals ghoul was to capture or kill Moore and destroy Cautopotus files*
 	- $\color{Red}{\textsf{[Choice]}}$ Tell her to leave
 	- $\color{Red}{\textsf{[Choice]}}$ Let her finish her mission
 		- *Either of these options will lead her to sabotage your mission later.*
-	- $\color{Red}{\textsf{[Choice]}}$ $\color{Purple}\textsf{\textsf{[Dominate 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Order her to leave
+	- $\color{Red}{\textsf{[Choice]}}$ $\color{#b738d1}{\textsf{[Dominate 1] 2🌢}}$ Order her to leave
 		- *This choice will guarantee she leaves and will not sabotage your mission.*
 - Large office room on left
 	- $\color{#46b233}{\textsf{Old Coins}}$ (+5 willpower) on a coffee table near computer.
@@ -265,13 +267,13 @@
 		- He will go over the events of the night.
 	- $\color{#d67c22}{\textsf{Key to the parking attendant's car}}$ on the key hanger
 - Car at the end of parking lot
-	- $\color{Purple}\textsf{\textsf{[Auspex]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Sense aura (trunk)
+	- $\color{#b738d1}{\textsf{[Auspex] 2🌢}}$ Sense aura (trunk)
 	- $\color{#1f7c8e}{\textsf{[Security 2]}}$ Pick lock (trunk)
 	- Key is found inside the security room on a hanger.
 	- $\color{#89bfff}\textsf{\textsf{Thin-blood's watch}}$ (Opponent can't focus, if you're focusing. Discipline Tie +25%. Risk of focus +10%) in trunk
 - Trash disposal room
 	- Interact with a trash container to learn they're locked.
-	- $\color{Purple}\textsf{\textsf{[Auspex]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Sense aura (trash container)
+	- $\color{#b738d1}{\textsf{[Auspex] 2🌢}}$ Sense aura (trash container)
 	- Talk to **Wyatt** again
 - $\color{Green}{\textsf{◆}}$ Safe zone in staff locker room (other door)
 - ***Confrontation with Wyatt***
@@ -354,7 +356,7 @@
 		- Now's not the time for this! $\color{Red}{\textsf{(Lose)}}$
 	- Phase 2
 		- $\color{#96243c}{\textsf{[Rhetoric X]}}$ A hint? $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
-		- $\color{Purple}\textsf{\textsf{[Dominate X]}}$ $\color{#b738d1}{\textsf{2🌢}}$ We don't have time for this... $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
+		- $\color{#b738d1}{\textsf{[Dominate X] 2🌢}}$ We don't have time for this... $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
 		- I think it's...
 			- Fire $\color{Green}{\textsf{(Pass)}}$
 			- A ghoul $\color{Red}{\textsf{(Lose)}}$
@@ -364,10 +366,10 @@
 	- Winning the confrontation refunds $\color{#b738d1}{\textsf{2🌢}}$
 	- Winning all three confrontations unlocks **Mom of the Year** achievement
 - Fireplace area
-	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track (wine glass)
+	- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Track (wine glass)
 	- $\color{#38773c}{\textsf{[Deduction 1]}}$ Observe blood (on couch)
 	- Briefcase (belonging to Dr. Dunham)
-		- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{3🌢}}$ See Premonition
+		- $\color{#b738d1}{\textsf{[Auspex 3] 3🌢}}$ See Premonition
 			- *Shows a hint of Dr. Dunham's office in a future missions*
 		- $\color{#d67c22}{\textsf{Personal Note Nr.3}}$ on left side
 		- $\color{#d67c22}{\textsf{Dr. Dunham's floppy disk}}$ on the right side
@@ -378,9 +380,9 @@
 		- $\color{#38773c}{\textsf{[Education 1]}}$ Study wound
 			- *Reveals the weapon was a powerful shotgun*
 	- LR3 Marker
-		- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track (Ash)
+		- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Track (Ash)
 	- Tape to the balcony
-		- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Listen Carefully (officers on balcony)
+		- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Listen Carefully (officers on balcony)
 - Talking with Captain **Paulson**
 	- $\color{#96243c}{\textsf{[Psychology 1]}}$ He seems annoyed (loops back)
 	- Why can't we go on the balcony?
@@ -389,7 +391,7 @@
 - ***Confrontation with Halsey 2***
 	- 1 phase, no misses
 	- Phase 1
-		- $\color{Purple}\textsf{\textsf{[Dominate X]}}$ $\color{#b738d1}{\textsf{2🌢}}$ You do know that Mother already gave you the answer $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
+		- $\color{#b738d1}{\textsf{[Dominate X] 2🌢}}$ You do know that Mother already gave you the answer $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
 		- I'm stumped $\color{Red}{\textsf{(Lose)}}$
 		- I know...
 			- The cold $\color{Green}{\textsf{(Pass)}}$
@@ -402,22 +404,22 @@
 	- $\color{#96243c}{\textsf{[Persuasion X]}}$ Tell her you don't $\color{Red}\textsf{\textsf{(Guaranteed Fail)}}$
 - $\color{Green}{\textsf{◆}}$ Safe Zone - bathroom (right door)
 	- Bloody cloth
-		- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track (bloody cloth)
+		- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Track (bloody cloth)
 		- $\color{#38773c}{\textsf{[Deduction 1]}}$ Deduce origin of scent
 			- *Reveals someone tried to cover up the smell*
-	- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (soap)
+	-  $\color{#b738d1}{\textsf{[Auspex 2] 2🌢}}$ Reveal Psychometry (soap)
 		- *Shows a memory of Himiko and Miley in the bathroom. Miley got wine on the purse she received from the Prince and is upset. Miley says she'll go smoke on the balcony.*
 	- Bag and purse
-		- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track (bag)
+		- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Track (bag)
 		- $\color{#d67c22}{\textsf{Miley's Speech}}$ in the bag (*Masquerade protection*)
 - Kitchen Area
 	- Talking with officer **Opuedo**
 		- *Reveals that the Feds have an address of a Red Salon*
 	- Wall and Forensics officer
-		- $\color{Purple}\textsf{\textsf{[Obfuscate 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Copy uniform
+		- $\color{#b738d1}{\textsf{[Obfuscate 1] 2🌢}}$ Copy uniform
 		- $\color{#38773c}{\textsf{[Deduction 2]}}$ Assess damage (torn wall)
 			- *Concludes a kindred must have damaged it*
-			- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (torn wall)
+			- $\color{#b738d1}{\textsf{[Auspex 2] 2🌢}}$ Reveal Psychometry (torn wall)
 				- *Reveals a memory of a military unit being attacked by kindred. Another officer neutralizes Miley and stabs a stake into her heart, putting her in Torpor.*
 	- Code KI2 next to where Miley was captured
 	- Body in the wine cellar
@@ -426,7 +428,7 @@
 			- 5593 For Mr. Underwood
 			- 6159 For Unknown (briefcase)
 	- Briefcase in the kitchen
-		- $\color{Purple}\textsf{\textsf{[Obfuscate 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Cloak of Concealment
+		- $\color{#b738d1}{\textsf{[Obfuscate 2] 2🌢}}$ Cloak of Concealment
 			- This will disappear the case, you can't look at what's inside.
 		- $\color{#1f7c8e}{\textsf{[Technology 2]}}$ Hack
 		- Code is 6159
@@ -480,14 +482,14 @@
 - Second Bedroom
 	- $\color{#46b233}{\textsf{Polariod Photo}}$ (+5 willpower) in the shower
 - Agent blocking access 
-	- $\color{Purple}\textsf{\textsf{[Obfuscate 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Copy uniform
-- $\color{Purple}\textsf{\textsf{Obfuscate}}$ Return to Safe Zone and change to FBI agent
+	- $\color{#b738d1}{\textsf{[Obfuscate 1] 2🌢}}$ Copy uniform
+- $\color{#b738d1}\textsf{\textsf{Obfuscate}}$ Return to Safe Zone and change to FBI agent
 - Backtrack to the room with the fireplace
 	- You can now walk past it to the room that was blocked earlier
 - $\color{Green}{\textsf{◆}}$ Safe Zone - IT Room
 	- $\color{#46b233}{\textsf{Lockpicking tool}}$ (+1 $\color{#1f7c8e}{\textsf{Security}}$ for next interaction)
-- $\color{Purple}\textsf{\textsf{Auspex}}$ Activate to see wall interaction
-	- $\color{Purple}\textsf{\textsf{[Auspex 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Pierce Obfuscate
+- $\color{#b738d1}\textsf{\textsf{Auspex}}$ Activate to see wall interaction
+	- $\color{#b738d1}{\textsf{[Auspex 1] 2🌢}}$ Pierce Obfuscate
 		- Reveals a hidden room
 - Hidden Office
 	- You will find Natasha, who will die soon after.
@@ -497,7 +499,7 @@
 	- Pick up orange file 
 	- Talking with Agent **Philbert**
 		- Insist!
-			- $\color{Purple}\textsf{\textsf{[Dominate 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Let me take your place!
+			- $\color{#b738d1}{\textsf{[Dominate 1] 2🌢}}$ Let me take your place!
 			- $\color{#d67c22}{\textsf{Study Files}}$ can now be picked up (*Masquerade Protection*)
 	- Soldier's corpse
 		- $\color{#38773c}{\textsf{[Education 2]}}$ Identify logo
@@ -607,7 +609,7 @@
 					- *Reveals Maddox feeding a victim to the prisoner, presumably Densch*
 				- Interact with the bed to trigger ***Memory of Emem's Rape***
 					- If this is the 4th memory you got, you will lose "**Amnesia**". You can go inspect the $\color{#d67c22}{\textsf{Thaumaturgical Coin}}$ and take it.
-			- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink back
+			- $\color{#b738d1}{\textsf{[Celerity 1] 2🌢}}$ Blink back
 	-  Walk all the way back to the cell blocks gate
 	- Open the gate with the lever on the left side of the wall
 - **Left cell block**
@@ -615,19 +617,19 @@
 	- The first cell contains a $\color{#b738d1}{\textsf{🌢🌢}}$ woman with $\color{Purple}\textsf{\textsf{X Resonance (X)}}$
 	- The second cell contains a radio that triggers ***Memory of Escaping the Nazis***
 	- The third cell
-		- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (on body)
+		- $\color{#b738d1}{\textsf{[Auspex 2] 2🌢}}$ Reveal Psychometry (on body)
 			- *Reveals it is one of the apprentices that was forced into Torpor and used for experiments.*
 		- Use $\color{#d67c22}{\textsf{Thaumaturgical Coin}}$ to hear the apprentices mind. (On head)
 		- $\color{#89bfff}\textsf{\textsf{Tremere Brooch}}$ (Risk of focus -25%, Every 3 Discipline wins removes 4 hunger, Each Discipline causes 1 Suspicion) next to corpse
 		- $\color{#b738d1}{\textsf{🌢🌢}}$ 2x rats
-		- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink down to the strange room
+		- $\color{#b738d1}{\textsf{[Celerity 1] 2🌢}}$ Blink down to the strange room
 			- $\color{#b738d1}{\textsf{🌢🌢}}$ 2x rats
 			- Touching the smashed wall triggers ***Memory of Confessing to Hilda***
-			- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink up and return
+			- $\color{#b738d1}{\textsf{[Celerity 1] 2🌢}}$ Blink up and return
 -  Walk all the way back to the cell blocks gate
 - Open the gate with the lever on the left side of the wall
 - **Cross the bridge to the tower**
-	- $\color{Purple}\textsf{\textsf{[Celerity 1]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Blink up
+	- $\color{#b738d1}{\textsf{[Celerity 1] 2🌢}}$ Blink up
 	- There are 3 floors, each one will have a ring puzzle.
 	- There are **2** solutions on each floor. You must complete the first, before you can do the second.
 	- The first puzzle is simply connect the channels between the pedestal you're standing on to the center, this moves blood to the center.
@@ -687,7 +689,7 @@
 			- *April is questioning if Hazel's reign can survives this attack. She also warns Galeb he has much to lose. Not stating it outright, but hinting at Feng.*
 - Roundtable Room (second floor)
 	- Talking with **Victoria**
-		- $\color{#96243c}{\textsf{[Psychology 2]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$)
+		- $\color{#96243c}{\textsf{[Psychology 2]}}$ Defend (Opponent skill use, can defend with $\color{#b738d1}{\textsf{[Fortitude 2] 2🌢}}$)
 			- *Galeb hides how much the departure of his Sire affects him.*
 		- $\color{#96243c}{\textsf{[Persuasion 4]}}$ It's for Feng's own good
 			- *Victoria reveals Berel has spoken to Feng.*
@@ -701,9 +703,9 @@
 	- A file on her desk for "Cautopates" can be found.
 		- *This appears to be the same file **Lehane** was send to cleanup.*
 - **Underwood**'s Room
-	- $\color{Purple}\textsf{\textsf{[Auspex]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Sense aura (Feng magazine)
+	- $\color{#b738d1}{\textsf{[Auspex] 2🌢}}$ Sense aura (Feng magazine)
 		- *Reveals Feng held this magazine, so she must have been here.*
-	- $\color{Purple}\textsf{\textsf{[Auspex]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Sense aura (glass)
+	- $\color{#b738d1}{\textsf{[Auspex] 2🌢}}$ Sense aura (glass)
 - Take the elevator to -1
 - **Kaius**' Room
 	- Safe
@@ -740,7 +742,7 @@
 			- She doesn't need his advice $\color{Red}{\textsf{(Lose)}}$
 			- $\color{#96243c}{\textsf{[Rhetoric 4]}}$ Is he talking about himself? $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
 		- **Phase 3**
-			- $\color{#96243c}{\textsf{[Psychology 3]}}$ Defend (Opponent skill use, can defend with $\color{Purple}\textsf{\textsf{[Fortitude 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$) $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
+			- $\color{#96243c}{\textsf{[Psychology 3]}}$ Defend (Opponent skill use, can defend with $\color{#b738d1}{\textsf{[Fortitude 2] 2🌢}}$) $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
 			- Don't defend yourself $\color{Red}{\textsf{(Lose)}}$
 		- **Phase 4**
 			- $\color{#96243c}{\textsf{[Intimidation 2]}}$ I'll last longer than he will $\color{Green}{\textsf{(Pass on Success}}$, $\color{Red}{\textsf{Lose on Failure)}}$
@@ -772,14 +774,14 @@
 			- *You reveal the mission details to Hilda.*
 	- At the bar
 		- Hilda will walk up and drop her key on the counter.
-			- $\color{Purple}\textsf{\textsf{[Celerity 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Snatch
+			- $\color{#b738d1}{\textsf{[Celerity 2] 2🌢}}$ Snatch
 	- Atrium
 		- If Galeb confronted **Berel** he will spurn Feng saying she's of no importance to him.
 		- You can talk to him before he leaves the area and he will say he's heading to a Red Salon to do cleanup.
 		- Feng will return to the Grey Square Stones Room
 	- Grey Square Stones Room
 		- If you didn't confront Berel, evidence of a meeting with Feng can be found here.
-			- $\color{Purple}\textsf{\textsf{[Celerity 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Track
+			- $\color{#b738d1}{\textsf{[Celerity 2] 2🌢}}$ Track
 		- If you do confront Berel, Feng will return here shortly after talking with him in the atrium.
 		- Talking with **Feng**
 			- $\color{#96243c}{\textsf{[Psychology 2]}}$ How is she taking things?
@@ -804,7 +806,7 @@
 		- $\color{#1f7c8e}{\textsf{[Security 5]}}$ Pick lock
 		- Key can be found in Nurmi's office downstairs
 	- **Hilda**'s room
-		- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry
+		- $\color{#b738d1}{\textsf{[Auspex 2] 2🌢}}$ Reveal Psychometry
 			- *Reveals a memory of Hilda either obsessing over or blaming Emem.*
 		- A list of names can be found, some cross out, Emem mentions they were the men who raped her.
 		- Phone (in drawer)
@@ -819,12 +821,12 @@
 	- Head to April's office and take the elevator.
 	- Entrance
 		- $\color{#46b233}{\textsf{Club Business Cards}}$ (+5 willpower) on the table.
-		- $\color{Purple}\textsf{\textsf{[Auspex 2]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Reveal Psychometry (sheet music)
+		- $\color{#b738d1}\textsf{\textsf{[Auspex 2] 2🌢}}$ Reveal Psychometry (sheet music)
 			- *Shows memory of Hazel playing Swan Lake*
 		- Inspect the sheet music for a passcode (BFDAC)
 	- Living Room
 		- Kaius' Report on Underwood can be read on the table.
-		- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{2🌢}}$ Observe in detail (book shelf)
+		- $\color{#b738d1}{\textsf{[Auspex 3] 2🌢}}$ Observe in detail (book shelf)
 		- Swan
 			- $\color{#38773c}{\textsf{[Deduction 1]}}$ Observe carefully (empty circle)
 	- Bedroom
@@ -833,7 +835,7 @@
 			- $\color{#96243c}{\textsf{[Persuasion 2]}}$ Hazel sent me
 				- Succeeding unlocks "**Childer united**" (-10% Persuasion tie)
 		- Note of Hazel's childe destruction
-			- $\color{Purple}\textsf{\textsf{[Auspex 3]}}$ $\color{#b738d1}{\textsf{2🌢}}$ See premonition
+			- $\color{#b738d1}\textsf{\textsf{[Auspex 3] 2🌢}}$ See premonition
 				- *Reveals an image of a brightly lid shipping container surrounded by monitors with eyes and crash screens. The sound of sharpening metal in the background.*
 		- $\color{#d67c22}{\textsf{Miniature Swan}}$ on the bookshelf area.
 	- Back to the living room.
@@ -855,38 +857,38 @@
 
 ### Emem
 
-| **SKILL**                                  | Princes | Hartford | Princes 2 |     |
-| ------------------------------------------ | ------- | -------- | --------- | --- |
-| $\color{#96243c}{\textsf{Rhetoric}}$       | 2*      | 3        | 2         |     |
-| $\color{#96243c}{\textsf{Intimidation}}$   | 3       | 1        | 0         |     |
-| $\color{#96243c}{\textsf{Persuasion}}$     | 4       | 2        | 4         |     |
-| $\color{#96243c}{\textsf{Psychology}}$     | 3       | 2        | 2         |     |
-| $\color{#1f7c8e}{\textsf{Security}}$       | 0*      | 0        | 5         |     |
-| $\color{#1f7c8e}{\textsf{Technology}}$     | 3*      | 0        | 3         |     |
-| $\color{#38773c}{\textsf{Deduction}}$      | 1       | 2        | 1         |     |
-| $\color{#38773c}{\textsf{Education}}$      | 2       | 2        | 2         |     |
-| $\color{Purple}\textsf{\textsf{Auspex}}$   | 1       | 3        | 3         |     |
-| $\color{Purple}\textsf{\textsf{Celerity}}$ | 0       | 2**      | 2         |     |
-| $\color{Purple}\textsf{\textsf{Presence}}$ | 0*      | 0        | 0         |     |
+| SCENE                                      | **01** | **04** | **05** | **08** | **09** | **10** | **11** | **E** |
+| ------------------------------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- |
+| $\color{#96243c}{\textsf{Rhetoric}}$       | 2*     | 3      | 2      |        |        |        |        |       |
+| $\color{#96243c}{\textsf{Intimidation}}$   | 3      | 1      | 0      |        |        |        |        |       |
+| $\color{#96243c}{\textsf{Persuasion}}$     | 4      | 2      | 4      |        |        |        |        |       |
+| $\color{#96243c}{\textsf{Psychology}}$     | 3      | 2      | 2      |        |        |        |        |       |
+| $\color{#1f7c8e}{\textsf{Security}}$       | 0*     | 0      | 5      |        |        |        |        |       |
+| $\color{#1f7c8e}{\textsf{Technology}}$     | 3*     | 0      | 3      |        |        |        |        |       |
+| $\color{#38773c}{\textsf{Deduction}}$      | 1      | 2      | 1      |        |        |        |        | 3     |
+| $\color{#38773c}{\textsf{Education}}$      | 2      | 2      | 2      |        |        |        |        |       |
+| $\color{Purple}\textsf{\textsf{Auspex}}$   | 1      | 3      | 3      |        |        |        |        |       |
+| $\color{Purple}\textsf{\textsf{Celerity}}$ | 0      | 2**    | 2      |        |        |        |        | III   |
+| $\color{Purple}\textsf{\textsf{Presence}}$ | 0*     | 0      | 0      |        |        |        |        |       |
 
 `*This excludes the impossible ranks`
 `**Rank 2 can be temporarily achieved by consuming the Tremere Potion found in the level.
 
 ### Leysha
 
-| **SKILL**                                   | Princes | Loft | Princes 2 |
-| ------------------------------------------- | ------- | ---- | --------- |
-| $\color{#96243c}{\textsf{Rhetoric}}$        | 4       | 3    |           |
-| $\color{#96243c}{\textsf{Intimidation}}$    | 0       | 0**  |           |
-| $\color{#96243c}{\textsf{Persuasion}}$      | 4       | 3**  |           |
-| $\color{#96243c}{\textsf{Psychology}}$      | 0       | 4    |           |
-| $\color{#1f7c8e}{\textsf{Security}}$        | 0*      | 2    |           |
-| $\color{#1f7c8e}{\textsf{Technology}}$      | 3       | 2    |           |
-| $\color{#38773c}{\textsf{Deduction}}$       | 1       | 2    |           |
-| $\color{#38773c}{\textsf{Education}}$       | 2       | 2    |           |
-| $\color{Purple}\textsf{\textsf{Auspex}}$    | 1       | 3    |           |
-| $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 1       | 3*** |           |
-| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0       | 1    |           |
+| SCENE                                       | **01** | **03** | **05** | **07** | **09** | **10** | **11** | **E** |
+| ------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- |
+| $\color{#96243c}{\textsf{Rhetoric}}$        | 4      | 3      |        |        |        |        |        |       |
+| $\color{#96243c}{\textsf{Intimidation}}$    | 0      | 0**    |        |        |        |        |        |       |
+| $\color{#96243c}{\textsf{Persuasion}}$      | 4      | 3**    |        |        |        |        |        |       |
+| $\color{#96243c}{\textsf{Psychology}}$      | 0      | 4      |        |        |        |        |        |       |
+| $\color{#1f7c8e}{\textsf{Security}}$        | 0*     | 2      |        |        |        |        |        |       |
+| $\color{#1f7c8e}{\textsf{Technology}}$      | 3      | 2      |        |        |        |        |        |       |
+| $\color{#38773c}{\textsf{Deduction}}$       | 1      | 2      |        |        |        |        |        |       |
+| $\color{#38773c}{\textsf{Education}}$       | 2      | 2      |        |        |        |        |        |       |
+| $\color{Purple}\textsf{\textsf{Auspex}}$    | 1      | 3      |        |        |        |        |        |       |
+| $\color{Purple}\textsf{\textsf{Obfuscate}}$ | 1      | 3***   |        |        |        |        |        |       |
+| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0      | 1      |        |        |        |        |        |       |
 
 *`*This excludes the impossible ranks`*
 `*Excludes matched ranks from Halsey's Confrontation provided by Dr. Dunham's potion`
@@ -894,19 +896,19 @@
 
 ### Galeb
 
-| **SKILL**                                   | Prince | Moore's | Princes 2 |
-| ------------------------------------------- | ------ | ------- | --------- |
-| $\color{#96243c}{\textsf{Rhetoric}}$        | 4      | 3       | 4         |
-| $\color{#96243c}{\textsf{Intimidation}}$    | 0      | 3       | 2         |
-| $\color{#96243c}{\textsf{Persuasion}}$      | 4      | 2       | 4         |
-| $\color{#96243c}{\textsf{Psychology}}$      | 3      | 2       | 3         |
-| $\color{#1f7c8e}{\textsf{Security}}$        | 3      | 3       | 5         |
-| $\color{#1f7c8e}{\textsf{Technology}}$      | 2*     | 4       | 4         |
-| $\color{#38773c}{\textsf{Deduction}}$       | 1      | 2       | 0         |
-| $\color{#38773c}{\textsf{Education}}$       | 2      | 2       | 2         |
-| $\color{Purple}\textsf{\textsf{Fortitude}}$ | 2      | 0       | 2         |
-| $\color{Purple}\textsf{\textsf{Presence}}$  | 0      | 1       | 0         |
-| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0      | 1       | 0         |
+| SCENE                                       | **01**  | **02**  | **05**  | **06**  | **09**  | **10**  | **11**  | **E**   |
+| ------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $\color{#96243c}{\textsf{Rhetoric}}$        | 4   | 3   |     | 4   |     |     |     |     |
+| $\color{#96243c}{\textsf{Intimidation}}$    | 0   | 3   |     | 2   |     |     |     |     |
+| $\color{#96243c}{\textsf{Persuasion}}$      | 4   | 2   |     | 4   |     |     |     |     |
+| $\color{#96243c}{\textsf{Psychology}}$      | 3   | 2   |     | 3   |     |     |     |     |
+| $\color{#1f7c8e}{\textsf{Security}}$        | 3   | 3   |     | 5   |     |     |     |     |
+| $\color{#1f7c8e}{\textsf{Technology}}$      | 2*  | 4   |     | 4   |     |     |     |     |
+| $\color{#38773c}{\textsf{Deduction}}$       | 1   | 2   |     | 0   |     |     |     |     |
+| $\color{#38773c}{\textsf{Education}}$       | 2   | 2   |     | 2   |     |     |     |     |
+| $\color{Purple}\textsf{\textsf{Fortitude}}$ | 2   | 0   |     | 2   |     |     |     |     |
+| $\color{Purple}\textsf{\textsf{Presence}}$  | 0   | 1   |     | 0   |     |     |     |     |
+| $\color{Purple}\textsf{\textsf{Dominate}}$  | 0   | 2   |     | 0   |     |     |     |     |
 
 `*This excludes the impossible ranks`
 
